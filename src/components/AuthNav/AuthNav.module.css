@@ -1,0 +1,19 @@
+.list {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.link {
+    display: inline-block;
+    text-decoration: none;
+    padding: 12px;
+    font-weight: 500;
+    color: #2a363b;
+    font-size: 22px;
+}
+
+.active-link {    
+    color: rgb(0, 153, 255);
+}
